@@ -1,0 +1,61 @@
+body{
+    font: 400 15px Tahoma; /*Familia sans-serif*/
+    line-height: 1.8;
+    font-size: large;
+    background: linear-gradient(to right, #2BC0E4, #EAECC6);
+    color: black;
+}
+
+section{
+    padding: 20px;
+}
+
+header{
+    opacity: .8;
+    text-align: center;
+}
+
+h1{
+    font-size: 3em;
+}
+h2{
+    font-size: 2.3em;
+}
+h3{
+    font-size: 1.6em;
+}
+h4{
+    font-size: 1.3em;
+}
+h5{
+    font-size: 1.1em;
+}
+h1,h2,h3,h4,h5,h6{
+    font-family: Verdana, Geneva, Tahoma, sans-serif; /*familia sans-serif */
+    font-weight: bold;
+    text-transform: uppercase;
+    padding: 10px 10px 10px;
+    color: darkblue;
+}
+h2.nombreRuta{
+    text-align: center;
+}
+h3.nombreHito{
+    text-align: center;
+}
+
+ul.listaRuta{
+    list-style-type: none;
+}
+
+ul.listaHito{
+    list-style-type: none;
+    text-align: center;
+    background-color: floralwhite;
+    margin: 50px;
+    opacity: .7;
+}
+img {
+    max-width:40%;
+    height:auto;
+}

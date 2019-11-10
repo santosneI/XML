@@ -1,0 +1,299 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<?xml-stylesheet type="text/xsl" href="rutas.xsl"?>
+<rutas>
+    <ruta>
+        <nombre>Senda norte</nombre>
+        <tipo>Paisajistica</tipo>
+        <transporte>A pie</transporte>
+        <duracion>1,3 horas</duracion>
+        <agencia>Sin agencia</agencia>
+        <descripcion>Ruta costera</descripcion>
+        <personasAdecuadas>Se puede ir con niños</personasAdecuadas>
+        <lugarInicio>Salinas</lugarInicio>
+        <direccionInicio>Calle Alcalde Luis Treillard</direccionInicio>
+        <coordenadasInicio>43.575082,-5.964242,16.25</coordenadasInicio>
+        <referencias>
+            <referencia>https://www.rutasmontanaasturias.com/2018/05/senda-norte-costera-arnao-bayas.html</referencia>
+            <referencia>https://www.turismoasturias.es/descubre/naturaleza/rutas/sendas-costeras</referencia>
+            <referencia>https://www.elbuscolu.com/rutas-sendas-asturias/senda-norte-arnao-bayas-fase-iii/32574</referencia>
+        </referencias>
+        <recomendacion>7</recomendacion>
+        <hitos>
+            <sitio>
+                <nombreSitio>Museo mina Arnao</nombreSitio>
+                <descripcionHito>museo minero de la mina de Arnao</descripcionHito>
+                <coordenadas>43.577151,-5.9842652,19</coordenadas>
+                <distanciaAnterior unidades="metros">0</distanciaAnterior>
+                <galeriaFotos>
+                    <fotografia>https://guiadeasturias.com/wp-content/uploads/2017/08/jrg4974-1024x576.jpg</fotografia>
+                    <fotografia>https://guiadeasturias.com/wp-content/uploads/2017/08/arnao.jpg</fotografia>
+                </galeriaFotos>
+                <galeriaVideos>
+                    <video>https://www.youtube.com/watch?v=D-srxYwdBj0</video>
+                </galeriaVideos>
+            </sitio>
+            <sitio>
+                <nombreSitio>Playa Santa Maria del mar</nombreSitio>
+                <descripcionHito>Playa de santa maria del mar, Castrillon</descripcionHito>
+                <coordenadas>43.5727834,-5.9983659,5</coordenadas>
+                <distanciaAnterior unidades="metros">2900</distanciaAnterior>
+                <galeriaFotos>
+                    <fotografia>https://static.elcomercio.es/comun/movil2016/imagenes_playas/0002380.jpg</fotografia>
+                    <fotografia>http://www.turismodecampoo.com/archivo/imagenes/hotel-restaurante-mirador-de-santa-maria-santa-maria-del-mar-castrillon-asturias-espana_608/foto03.jpg</fotografia>
+                </galeriaFotos>
+                <galeriaVideos>
+                    <video>https://www.youtube.com/watch?v=hOXYcDZgri4</video>
+                </galeriaVideos>
+            </sitio>
+            <sitio>
+                <nombreSitio>Playa El Sablon</nombreSitio>
+                <descripcionHito>Playa del sablon en bayas</descripcionHito>
+                <coordenadas>43.5578348,-6.043867,2</coordenadas>
+                <distanciaAnterior unidades="metros">5300</distanciaAnterior>
+                <galeriaFotos>
+                    <fotografia>https://static3.elcomercio.es/www/pre2017/multimedia/noticias/201409/22/media/18222284.jpg</fotografia>
+                    <fotografia>https://guiadeasturias.com/wp-content/uploads/2017/08/PlayaPlayonBayas1.jpg</fotografia>
+                </galeriaFotos>
+                <galeriaVideos>
+                    <video>https://www.ruralsurf.com/es/las-playas-surfeamos/</video>
+                </galeriaVideos>
+            </sitio>
+        </hitos>
+    </ruta>
+    <ruta>
+        <nombre>Ruta del cares</nombre>
+        <tipo>montaña</tipo>
+        <transporte>A pie</transporte>
+        <duracion>6 horas</duracion>
+        <agencia>Sin agencia</agencia>
+        <descripcion>Ruta de montaña en Los Picos de Europa</descripcion>
+        <personasAdecuadas>Personas en buena forma fisica</personasAdecuadas>
+        <lugarInicio>Posada de Valdeon</lugarInicio>
+        <direccionInicio>Calle del Salvador</direccionInicio>
+        <coordenadasInicio>43.1516902,-4.9189227,18</coordenadasInicio>
+        <referencias>
+            <referencia>https://es.wikipedia.org/wiki/Ruta_del_Cares</referencia>
+            <referencia>https://www.turismoasturias.es/descubre/naturaleza/rutas/senderismo/ruta-del-cares</referencia>
+            <referencia>https://www.escapadarural.com/blog/ruta-cares/</referencia>
+        </referencias>
+        <recomendacion>9</recomendacion>
+        <hitos>
+            <sitio>
+                <nombreSitio>Albergue la cuesta</nombreSitio>
+                <descripcionHito>albergue rural al inicio de la ruta</descripcionHito>
+                <coordenadas>43.152795,-4.908302,2914</coordenadas>
+                <distanciaAnterior unidades="metros">0</distanciaAnterior>
+                <galeriaFotos>
+                    <fotografia>http://www.alberguelacuesta.org/images/foto%20lateral%20copia.jpg</fotografia>
+                    <fotografia>https://valledevaldeon.es/wp-content/uploads/2018/06/albergue-la-cuesta-1.jpg</fotografia>
+                </galeriaFotos>
+            </sitio>
+            <sitio>
+                <nombreSitio>Mirador del Tombo</nombreSitio>
+                <descripcionHito>mirador con vistas a las montañas</descripcionHito>
+                <coordenadas>43.173152,-4.901508,1456</coordenadas>
+                <distanciaAnterior unidades="metros">2374</distanciaAnterior>
+                <galeriaFotos>
+                    <fotografia>https://www.picoseuropa.net/valdeon/tombo/mirador-tombo-valdeon-0105-d60.jpg</fotografia>
+                    <fotografia>https://www.desnivel.com/images/2014/06/dr.-senda-del-cares-91-960x639.jpg</fotografia>
+                </galeriaFotos>
+                <galeriaVideos>
+                    <video>https://www.youtube.com/watch?v=NteCopwhbFM</video>
+                </galeriaVideos>
+            </sitio>
+
+            <sitio>
+                <nombreSitio>El chorco de los lobos</nombreSitio>
+                <descripcionHito>lugar de interes historico</descripcionHito>
+                <coordenadas>43.181845,-4.901402,1456</coordenadas>
+                <distanciaAnterior unidades="metros">966.9</distanciaAnterior>
+                <galeriaFotos>
+                    <fotografia>https://siempredepaso.es/wp-content/uploads/2017/03/QA5522-1-1170x780.jpg</fotografia>
+                    <fotografia>https://media-cdn.tripadvisor.com/media/photo-s/12/69/53/dc/chorco-de-los-lobos-cain.jpg</fotografia>
+                </galeriaFotos>
+                <galeriaVideos>
+                    <video>https://www.youtube.com/watch?v=MujU6oxJpiA</video>
+                </galeriaVideos>
+            </sitio>
+            <sitio>
+                <nombreSitio>Puente la jaya</nombreSitio>
+                <descripcionHito>Puente</descripcionHito>
+                <coordenadas>43.254318,-4.835124,1455</coordenadas>
+                <distanciaAnterior unidades="metros">9871</distanciaAnterior>
+                <galeriaFotos>
+                    <fotografia>https://live.staticflickr.com/594/20336406023_27638c232a_b.jpg</fotografia>
+                    <fotografia>https://s2.wklcdn.com/image_1/40474/4888600/2518469Master.jpg</fotografia>
+                </galeriaFotos>
+                <galeriaVideos>
+                    <video>https://www.youtube.com/watch?v=4LnwR9tZzPg</video>
+                    <video>https://www.youtube.com/watch?v=75xzplfrhUQs</video>
+                </galeriaVideos>
+            </sitio>
+        </hitos>
+    </ruta>
+    <ruta>
+        <nombre>Senda del Oso</nombre>
+        <tipo>Via verde</tipo>
+        <transporte>A pie o en bici</transporte>
+        <fechaInicio>2020-04-10</fechaInicio>
+        <horaInicio>09:00:00</horaInicio>
+        <duracion>8 horas</duracion>
+        <agencia>Sin agencia</agencia>
+        <descripcion>Roca, osos, vegetación, agua y paisajes</descripcion>
+        <personasAdecuadas>Se puede ir con niños</personasAdecuadas>
+        <lugarInicio>Area de descanso de Tuñon</lugarInicio>
+        <direccionInicio>Lugar Savil, 16A, 33115 Asturias</direccionInicio>
+        <coordenadasInicio>43.2630888,-6.0060796,17</coordenadasInicio>
+        <referencias>
+            <referencia>https://www.turismoasturias.es/descubre/naturaleza/rutas/senderismo/senda-del-oso</referencia>
+            <referencia>https://www.desdeasturias.com/la-senda-del-oso/</referencia>
+            <referencia>https://www.tevergaturismo.es/senda-del-oso/</referencia>
+        </referencias>
+        <recomendacion>6</recomendacion>
+        <hitos>
+            <sitio>
+                <nombreSitio>Puente medieval de Villanueva</nombreSitio>
+                <descripcionHito>Lugar de interes turistico</descripcionHito>
+                <coordenadas>43.2736351,-6.0011032,17</coordenadas>
+                <distanciaAnterior unidades="metros">0</distanciaAnterior>
+                <galeriaFotos>
+                    <fotografia>https://www.biodiversidadvirtual.org/etno/data/media/957/Puente-medieval-Villanueva-Rampalay-85286.jpg</fotografia>
+                    <fotografia>https://www.verpueblos.com/fotos_originales/0/3/4/01111034.jpg</fotografia>
+                </galeriaFotos>
+                <galeriaVideos>
+                    <video>https://www.youtube.com/watch?v=oLffcPYhVlo</video>
+                </galeriaVideos>
+            </sitio>
+            <sitio>
+                <nombreSitio>Cercado Osero de Paca y Molina</nombreSitio>
+                <descripcionHito>Parque de Animales</descripcionHito>
+                <coordenadas>43.257812,-6.002989,17</coordenadas>
+                <distanciaAnterior unidades="metros">1766</distanciaAnterior>
+                <galeriaFotos>
+                    <fotografia>https://m.eldiario.es/opinion/Paca-Tola-cautivas-Principado-Asturias_EDIIMA20150714_0826_5.jpg</fotografia>
+                    <fotografia>https://static.elcomercio.es/www/multimedia/201801/21/media/cortadas/paca-cercado%20(7)-kwYC--624x385@El%20Comercio.jpg</fotografia>
+                </galeriaFotos>
+                <galeriaVideos>
+                    <video>https://www.elcomercio.es/asturias/aniversario-muerte-paca-tola-molina-osos-asturias-20190117001625-ntvo.html</video>
+                </galeriaVideos>
+            </sitio>
+            <sitio>
+                <nombreSitio>Casa Laureano teverga</nombreSitio>
+                <descripcionHito>Restaurante</descripcionHito>
+                <coordenadas>43.161411,-6.096734,17</coordenadas>
+                <distanciaAnterior unidades="metros">13124</distanciaAnterior>
+                <galeriaFotos>
+                    <fotografia>https://s3-eu-west-1.amazonaws.com/assets.11870.com/pro/2e/pxl_2e6dca3a9107718c1b5395b28c220649.jpeg</fotografia>
+                    <fotografia>https://sendadelosoturismorural.com/uploads/m3ylkbvddfutarurhkv3.jpg</fotografia>
+                </galeriaFotos>
+            </sitio>
+        </hitos>
+    </ruta>
+    <ruta>
+        <nombre>Ruta de las xanas</nombre>
+        <tipo>senda</tipo>
+        <transporte>A pie</transporte>
+        <duracion>1,15 horas</duracion>
+        <agencia>Sin agencia</agencia>
+        <descripcion>Ruta montaña paisajistica</descripcion>
+        <personasAdecuadas>Se puede ir con niños</personasAdecuadas>
+        <lugarInicio>area recreativa El Molino de las Xanas</lugarInicio>
+        <direccionInicio>Lugar las Xanas, 5, 33115, Asturias</direccionInicio>
+        <coordenadasInicio>43.27442,-5.9962087,17</coordenadasInicio>
+        <referencias>
+            <referencia>http://www.larutadelasxanas.com/itinerario-de-la-ruta-de-las-xanas/</referencia>
+            <referencia>https://www.turismoasturias.es/descubre/naturaleza/rutas/senderismo/ruta-de-las-xanas</referencia>
+            <referencia>https://www.tripadvisor.es/Attraction_Review-g1926735-d1903896-Reviews-Ruta_de_las_Xanas-Villanueva_De_Santo_Adriano_Santo_Adriano_Municipality_Asturia.html</referencia>
+        </referencias>
+        <recomendacion>7</recomendacion>
+        <hitos>
+            <sitio>
+                <nombreSitio>Area recreativa de las Xanas</nombreSitio>
+                <descripcionHito>area recreativa</descripcionHito>
+                <coordenadas>43.27442,-5.9962087,17</coordenadas>
+                <distanciaAnterior unidades="metros">0</distanciaAnterior>
+                <galeriaFotos>
+                    <fotografia>https://s1.wklcdn.com/image_34/1027762/14423597/8953936Master.jpg</fotografia>
+                    <fotografia>https://www.turismoasturias.es/documents/11022/371584/LasXanas_1.jpg?t=1392629624120</fotografia>
+                    <fotografia>https://www.senditur.com/multimedia/uploads/images/Rutas/España/Asturias/Ruta%20de%20Las%20Xanas/Inicio.jpg</fotografia>
+                </galeriaFotos>
+            </sitio>
+            <sitio>
+                <nombreSitio>Iglesia de San Antonio de Pedroveya</nombreSitio>
+                <descripcionHito>Iglesia</descripcionHito>
+                <coordenadas>43.2666619,-5.972245,17</coordenadas>
+                <distanciaAnterior unidades="metros">2123</distanciaAnterior>
+                <galeriaFotos>
+                    <fotografia>https://s2.wklcdn.com/image_1/37906/14210632/8821652Master.jpg</fotografia>
+                    <fotografia>http://2.bp.blogspot.com/-wQnnTc0MByY/U6yTd8V2W2I/AAAAAAAAIu0/iLCHIHd2s74/s1600/31-Iglesia+Pedroveya.JPG</fotografia>
+                    <fotografia>https://s0.wklcdn.com/image_1/37906/14210632/8841924Master.jpg</fotografia>
+                </galeriaFotos>
+            </sitio>
+            <sitio>
+                <nombreSitio>Restaurante Casa Generosa</nombreSitio>
+                <descripcionHito>Restaurante Asturiano</descripcionHito>
+                <coordenadas>43.2682601,-5.9698605,17</coordenadas>
+                <distanciaAnterior unidades="metros">262</distanciaAnterior>
+                <galeriaFotos>
+                    <fotografia>https://media-cdn.tripadvisor.com/media/photo-s/05/f4/22/b6/comer-bajo-un-horreo.jpg</fotografia>
+                </galeriaFotos>
+            </sitio>
+        </hitos>
+    </ruta>
+    <ruta>
+        <nombre>Ruta del Alba</nombre>
+        <tipo>senda</tipo>
+        <transporte>A pie</transporte>
+        <duracion>5,23 horas</duracion>
+        <agencia>Sin agencia</agencia>
+        <descripcion>Discurre paralela al río Alba por un antiguo camino de pastores y arrieros</descripcion>
+        <personasAdecuadas>Se puede ir con niños</personasAdecuadas>
+        <lugarInicio>Abrevaderos del Alba</lugarInicio>
+        <direccionInicio>Unnamed Road, 33993, 33993, Asturias, España</direccionInicio>
+        <coordenadasInicio>43.1993041,-5.4725028,77</coordenadasInicio>
+        <referencias>
+            <referencia>https://www.turismoasturias.es/descubre/naturaleza/rutas/senderismo/ruta-del-alba</referencia>
+            <referencia>https://www.desdeasturias.com/ruta-del-alba/</referencia>
+            <referencia>https://visitarasturias.blogspot.com/2011/09/ruta-del-alba.html</referencia>
+        </referencias>
+        <recomendacion>8</recomendacion>
+        <hitos>
+            <sitio>
+                <nombreSitio>Abrevaderos del Alba</nombreSitio>
+                <descripcionHito>Ganadero</descripcionHito>
+                <coordenadas>43.1993041,-5.4725028,77</coordenadas>
+                <distanciaAnterior unidades="metros">0</distanciaAnterior>
+                <galeriaFotos>
+                    <fotografia>https://www.biodiversidadvirtual.org/etno/data/media/36/Abrevadero-en-Soto-de-Agues-(Asturias)-58216.jpg</fotografia>
+                    <fotografia>https://www.biodiversidadvirtual.org/etno/data/media/36/Abrevadero-en-Soto-de-Agues-(Asturias)-59192.jpg</fotografia>
+                </galeriaFotos>
+            </sitio>
+            <sitio>
+                <nombreSitio>Area recreativa del Alba</nombreSitio>
+                <descripcionHito>Area de descanso</descripcionHito>
+                <coordenadas>43.195688,-5.474262,728</coordenadas>
+                <distanciaAnterior unidades="metros">426.8</distanciaAnterior>
+                <galeriaFotos>
+                    <fotografia>http://4.bp.blogspot.com/-1UwqaVr5mrE/T_HQkzw8snI/AAAAAAAAAAA/R7wrntOCBsc/s1600/Ruta%2Bdel%2BAlba%2B%252829%2529.JPG</fotografia>
+                    <fotografia>https://i0.wp.com/www.lacarrozal.com/wp-content/uploads/2013/04/area-recreativa-asturias.jpg?resize=700%2C432</fotografia>
+                    <fotografia>https://media-cdn.tripadvisor.com/media/photo-s/14/6f/e3/a4/area-recreativa-y-final.jpg</fotografia>
+                </galeriaFotos>
+            </sitio>
+            <sitio>
+                <nombreSitio>Desfiladero del Alba</nombreSitio>
+                <descripcionHito>Zona de senderismo</descripcionHito>
+                <coordenadas>43.164251,-5.473706,728</coordenadas>
+                <distanciaAnterior unidades="metros">3496</distanciaAnterior>
+                <galeriaFotos>
+                    <fotografia>http://www.loasturiano.com/images/3044g.jpg</fotografia>
+                    <fotografia>https://s1.wklcdn.com/image_1/33207/8373646/4882861Master.jpg</fotografia>
+                    <fotografia>https://static.elcomercio.es/www/multimedia/201907/10/media/ruta-del-cares%20(7)-U80483978128V0G-U80555409086U6F-624x385@El%20Comercio-ElComercio.jpg</fotografia>
+                </galeriaFotos>
+                <galeriaVideos>
+                    <video>https://www.youtube.com/watch?v=oura0pa44iE</video>
+                </galeriaVideos>
+            </sitio>
+        </hitos>
+    </ruta>
+
+</rutas>
